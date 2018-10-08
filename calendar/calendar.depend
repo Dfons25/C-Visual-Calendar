@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518696671 source:c:\users\utilizador\dropbox\c\calendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
